@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jcunto2010
-- 👀 I’m interested in learn python, SQL and always eager to stand out in the context where I am.
-- 🌱 I’m currently learning python, SQL, Javascript and Data Analysis
+- 👀 I’m interested in learn advanced python, SQL, and Data Analysis tolls, always eager to stand out in the context where I am.
+- 🌱 I’m currently learning python, SQL, Javascript and Data Analysis tools
 - 💞️ I’m looking to collaborate on challenging and innovative projects 
 - 📫 How to reach me, via whatsapp +58 424 257 2739 or mail cnto.jnthn.97@gmail.com
 - 😄 Pronouns: he/him
