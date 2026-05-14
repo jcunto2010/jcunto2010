@@ -1,7 +1,18 @@
-- 👋 Hi, I’m @jcunto2010.
-- 👀 I’m interested in learn advanced Python, SQL, and Data Analysis tolls, always eager to stand out in the context where I am.
-- ⚡ Currently building my own booking app in Flutter (it's looking great)!
-- 🌱 I’m currently learning Python, SQL, Javascript and Data Analysis tools.
-- 💞️ I’m looking to collaborate on challenging and innovative projects.
-- 📫 How to reach me, via whatsapp +58 424 257 2739 or mail cnto.jnthn.97@gmail.com.
-- 😄 Pronouns: he/him.
+
+# Hi, I'm Jonathan
+
+Industrial Engineer who shifted to Frontend development, please visit my portfolio for more detail: www.jonathancuntodiaz.com
+
+
+## Tech Stack
+
+**Frontend:** React, TailwindCSS, shadcn UI, Figma
+
+**Backend:** Node, Express, Python
+
+**Deployment:** Vercel and Cloudflare
+
+
+##  Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jcunto2010)](https://git.io/streak-stats)
