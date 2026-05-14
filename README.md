@@ -1,3 +1,4 @@
+![Banner](git_banner.svg)
 
 # Hi, I'm Jonathan
 
